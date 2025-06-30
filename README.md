@@ -16,3 +16,13 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,cs,py,postrgres&perline=3)](https://skillicons.dev)
+## 📋 Descrição
+
+🎓 Estudante de Sistemas de Informação na PUC Minas, atualmente no terceiro período, com grande interesse nas áreas de desenvolvimento e infraestrutura. Tenho afinidade com lógica de programação, C# e fundamentos de banco de dados relacionais, além de conhecimentos sólidos em sistemas operacionais.
+
+💡 Busco uma oportunidade de estágio onde eu possa aplicar na prática os conhecimentos adquiridos na graduação, ao mesmo tempo em que aprendo com profissionais experientes. Tenho facilidade para trabalhar em equipe, aprender novas tecnologias e encarar desafios com responsabilidade.
+
+🚀 Áreas de interesse: Desenvolvimento (principalmente backend com C#), Banco de Dados, Infraestrutura de TI, e suporte técnico.
+
+
+
