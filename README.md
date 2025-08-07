@@ -15,7 +15,7 @@
 ## Tecnologias que eu uso no meu dia
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,cs,py,postrgres&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,py,postgres&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,gitlab,swift,apple,docker,dotnet&perline=3)](https://skillicons.dev)
 
 ## 📋 Descrição
