@@ -16,6 +16,8 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,cs,py,postrgres&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,swift,apple,docker,dotnet&perline=3)](https://skillicons.dev)
+
 ## 📋 Descrição
 
 🎓 Estudante de Sistemas de Informação na PUC Minas, atualmente no terceiro período, com grande interesse nas áreas de desenvolvimento e infraestrutura. Tenho afinidade com lógica de programação, C# e fundamentos de banco de dados relacionais, além de conhecimentos sólidos em sistemas operacionais.
